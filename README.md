@@ -1,6 +1,6 @@
 # Amit Kumar - Portfolio
 
-Welcome to my portfolio website! I'm a Cloud & DevOps Engineer passionate about building and optimizing cloud infrastructure.
+Welcome to my portfolio website! I'm passionate about Cloud & DevOps and optimizing cloud infrastructure.
 
 ## Technologies Used
 
